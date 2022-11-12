@@ -21,6 +21,7 @@ const Skills = (_) => {
         <li>Biography </li>
         <li>Teaching </li>
       </ol>
+        <hr />
     </>
   );
 };
